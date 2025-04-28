@@ -1,1 +1,1 @@
-# EZeats_Task
+# React-Native-Structure

@@ -1,0 +1,16 @@
+{
+  "hello": "hello",
+  "": "--------------check login-----------",
+  "skip": "Skip",
+  "language": "Language",
+  "arabic": "Arabic",
+  "english": "English",
+
+  "--": "------login-----",
+  "Phone_Number": "Phone Number",
+  "Phone_Number_Place": "ُ Enter Your Phone Number",
+  "logIn": "Log in",
+  "confirm": "Confirm",
+  "---": "------otp-----",
+  "resend":"Resend"
+}
